@@ -1,0 +1,191 @@
+route_no,source,destination,via,departure_time,match_note
+505,NAGERCOIL,MADURAI,,05:15,
+505,NAGERCOIL,MADURAI,,06:10,
+505,NAGERCOIL,MADURAI,,08:25,
+505,NAGERCOIL,MADURAI,,08:50,
+505,NAGERCOIL,MADURAI,,09:10,
+505,NAGERCOIL,MADURAI,,10:30,
+505,NAGERCOIL,MADURAI,,10:40,
+505,NAGERCOIL,MADURAI,,11:30,
+505,NAGERCOIL,MADURAI,,12:30,
+505,NAGERCOIL,MADURAI,,21:50,
+505,NAGERCOIL,MADURAI,,23:00,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",05:00,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",08:20,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",11:30,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",16:30,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",18:00,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",19:45,
+622,NAGERCOIL,KUMULI,"RAJAPALAYAM, THENI",23:00,
+505/TPR,NAGERCOIL,TIRUPPUR,,00:40,
+505/TPR,NAGERCOIL,TIRUPPUR,,06:00,
+505/TPR,NAGERCOIL,TIRUPPUR,,08:40,
+505/TPR,NAGERCOIL,TIRUPPUR,,14:30,
+505/TPR,NAGERCOIL,TIRUPPUR,,19:00,
+505-DIN,NAGERCOIL,DINDIGUL,,07:30,
+505-DIN,NAGERCOIL,DINDIGUL,,13:45,
+505-DIN,NAGERCOIL,DINDIGUL,,15:10,
+505-DIN,NAGERCOIL,DINDIGUL,,19:50,
+505-DIN,NAGERCOIL,DINDIGUL,,20:55,
+505-TRI,NAGERCOIL,TRICHIRAPPALLI,MADURAI,07:20,
+505-TRI,NAGERCOIL,TRICHIRAPPALLI,MADURAI,10:50,
+505-TRI,NAGERCOIL,TRICHIRAPPALLI,MADURAI,19:30,
+505/PERI,NAGERCOIL,PERIAKULAM,MADURAI,04:00,
+505-KOD,NAGERCOIL,KODAIKANAL,MADURAI,06:20,
+505-KOD,NAGERCOIL,KODAIKANAL,MADURAI,21:40,
+505-PAL,NAGERCOIL,PALANI,MADURAI,07:10,
+505-PAL,NAGERCOIL,PALANI,MADURAI,10:00,
+505-TAN,NAGERCOIL,THANJAVUR,,09:00,
+505-TAN,NAGERCOIL,THANJAVUR,,20:30,
+505K,MONDAYNAGAR,KARAIKUDI,MADURAI,14:45,
+505/RAME,KANYAKUMARI,RAMESWARAM,MADURAI,19:40,
+579/RAME,KANYAKUMARI,RAMESWARAM,THOOTHUKUDI,05:00,
+579/RAME,KANYAKUMARI,RAMESWARAM,THOOTHUKUDI,08:30,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,04:30,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,07:30,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,08:00,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,10:00,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,12:00,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,12:30,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,13:00,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,13:30,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,14:00,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,17:20,
+595,NAGERCOIL,THOOTHUKUDI,VALLIYOOR,19:00,
+565-EE,NAGERCOIL,TIRUNELVELI,,04:00,
+565-EE,NAGERCOIL,TIRUNELVELI,,04:18,
+565-EE,NAGERCOIL,TIRUNELVELI,,04:36,
+565-EE,NAGERCOIL,TIRUNELVELI,,04:45,
+565-EE,NAGERCOIL,TIRUNELVELI,,04:54,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:03,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:12,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:21,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:30,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:39,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:45,
+565-EE,NAGERCOIL,TIRUNELVELI,,05:57,
+565-EE,NAGERCOIL,TIRUNELVELI,,06:06,
+565-EE,NAGERCOIL,TIRUNELVELI,,06:15,
+565-EE,NAGERCOIL,TIRUNELVELI,,06:25,
+565-EE,NAGERCOIL,TIRUNELVELI,,06:33,
+565-EE,NAGERCOIL,TIRUNELVELI,,06:42,
+565-EE,NAGERCOIL,TIRUNELVELI,,06:51,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:00,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:09,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:18,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:27,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:36,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:45,
+565-EE,NAGERCOIL,TIRUNELVELI,,07:54,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:03,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:12,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:21,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:30,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:39,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:48,
+565-EE,NAGERCOIL,TIRUNELVELI,,08:57,
+565-EE,NAGERCOIL,TIRUNELVELI,,09:06,
+565-EE,NAGERCOIL,TIRUNELVELI,,09:15,
+565-EE,NAGERCOIL,TIRUNELVELI,,09:24,
+565-EE,NAGERCOIL,TIRUNELVELI,,09:33,
+565-EE,NAGERCOIL,TIRUNELVELI,,09:42,
+565-EE,NAGERCOIL,TIRUNELVELI,,09:51,
+565-EE,NAGERCOIL,TIRUNELVELI,,10:00,
+565-EE,NAGERCOIL,TIRUNELVELI,,10:18,
+565-EE,NAGERCOIL,TIRUNELVELI,,10:27,
+565-EE,NAGERCOIL,TIRUNELVELI,,10:36,
+565-EE,NAGERCOIL,TIRUNELVELI,,10:45,
+565-EE,NAGERCOIL,TIRUNELVELI,,10:54,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:03,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:12,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:21,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:30,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:39,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:48,
+565-EE,NAGERCOIL,TIRUNELVELI,,11:57,
+565-EE,NAGERCOIL,TIRUNELVELI,,12:06,
+565-EE,NAGERCOIL,TIRUNELVELI,,12:15,
+565-EE,NAGERCOIL,TIRUNELVELI,,12:24,
+565-EE,NAGERCOIL,TIRUNELVELI,,12:33,
+565-EE,NAGERCOIL,TIRUNELVELI,,12:42,
+565-EE,NAGERCOIL,TIRUNELVELI,,12:51,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:00,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:09,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:18,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:27,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:36,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:45,
+565-EE,NAGERCOIL,TIRUNELVELI,,13:54,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:03,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:12,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:21,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:30,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:39,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:48,
+565-EE,NAGERCOIL,TIRUNELVELI,,14:57,
+565-EE,NAGERCOIL,TIRUNELVELI,,15:06,
+565-EE,NAGERCOIL,TIRUNELVELI,,15:15,
+565-EE,NAGERCOIL,TIRUNELVELI,,15:24,
+565-EE,NAGERCOIL,TIRUNELVELI,,15:33,
+565-EE,NAGERCOIL,TIRUNELVELI,,15:42,
+565-EE,NAGERCOIL,TIRUNELVELI,,15:51,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:00,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:09,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:18,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:27,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:36,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:45,
+565-EE,NAGERCOIL,TIRUNELVELI,,16:54,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:03,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:12,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:21,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:30,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:39,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:48,
+565-EE,NAGERCOIL,TIRUNELVELI,,17:57,
+565-EE,NAGERCOIL,TIRUNELVELI,,18:06,
+565-EE,NAGERCOIL,TIRUNELVELI,,18:15,
+565-EE,NAGERCOIL,TIRUNELVELI,,18:24,
+565-EE,NAGERCOIL,TIRUNELVELI,,18:33,
+565-EE,NAGERCOIL,TIRUNELVELI,,18:42,
+565-EE,NAGERCOIL,TIRUNELVELI,,18:51,
+565-EE,NAGERCOIL,TIRUNELVELI,,19:09,
+565-EE,NAGERCOIL,TIRUNELVELI,,19:29,
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,03:30,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,05:45,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,08:00,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,09:25,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,15:00,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,16:30,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,20:40,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-EXP,NAGERCOIL,MADURAI,TIRUNELVELI,21:05,"Timing-sheet lists 8 departures for this corridor; official route table records Total Services = 4 for 505-EXP. Kept as-is (source text), discrepancy not resolved by guessing."
+505-CBE,NAGERCOIL,COIMBATORE,,18:10,Timing sheet shows only 3 of the 6 daily services listed in the official route table (2018040592.pdf); remainder not legible in source scan.
+505-CBE,NAGERCOIL,COIMBATORE,,19:20,Timing sheet shows only 3 of the 6 daily services listed in the official route table (2018040592.pdf); remainder not legible in source scan.
+505-CBE,NAGERCOIL,COIMBATORE,,20:20,Timing sheet shows only 3 of the 6 daily services listed in the official route table (2018040592.pdf); remainder not legible in source scan.
+505-SLM,KALIAKKAVILAI,SALEM,MADURAI,17:00,Only outbound leg legible in source scan; route table records 2 total services (both directions).
+505-VKI,KALIAKKAVILAI,VELANKANNI,THOOTHUKUDI,13:45,Only outbound leg legible in source scan; route table records 2 total services (both directions).
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,02:15,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,04:55,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,06:35,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,07:45,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,11:05,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,13:30,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,14:30,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,16:05,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+579,NAGERCOIL,THOOTHUKUDI,TIRUNELVELI,18:05,Timing sheet lists 9 departures; official route table records Total Services = 4 for plain route 579 (via Tirunelveli). Kept as the literal source text; discrepancy not resolved by guessing.
+450,KANYAKUMARI,NEDUMANKADU,,05:45,Timing sheet lists 2 departures; official route table records Total Services = 1.
+450,KANYAKUMARI,NEDUMANKADU,,13:45,Timing sheet lists 2 departures; official route table records Total Services = 1.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,04:15,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,05:30,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,06:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,08:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,09:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,10:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,11:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,12:45,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,13:45,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,15:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,15:30,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,17:15,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,18:00,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.
+N/A,NAGERCOIL,THOOTHUKUDI,OVARI,19:15,No route number given for this corridor in either source PDF; route created from the timing-sheet section header only.

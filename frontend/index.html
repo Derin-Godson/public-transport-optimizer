@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Journey Optimizer — TN Public Transport</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,560;9..144,680&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark">TN</span>
+      <div class="brand-text">
+        <span class="brand-title">Journey Optimizer</span>
+        <span class="brand-sub">Route · Schedule · Fare intelligence for Tamil Nadu transport</span>
+      </div>
+    </div>
+    <nav class="topnav">
+      <button class="nav-link active" data-view="search">Search</button>
+      <button class="nav-link" data-view="dashboard">Database</button>
+      <button class="nav-link" data-view="about">About the data</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- ============================= SEARCH VIEW ============================= -->
+  <section id="view-search" class="view active">
+
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="hero-eyebrow">A driven journey planner — not a live GPS app</p>
+        <h1 class="hero-title">Find your way across<br><em>Tamil Nadu's</em> bus network.</h1>
+      </div>
+
+      <form id="search-form" class="search-card" autocomplete="off">
+        <div class="field-row">
+          <div class="field">
+            <label for="from-input">From</label>
+            <input id="from-input" type="text" placeholder="e.g. Nagercoil" required>
+            <div class="suggest" id="from-suggest"></div>
+          </div>
+          <button type="button" id="swap-btn" class="swap-btn" title="Swap source and destination" aria-label="Swap">⇄</button>
+          <div class="field">
+            <label for="to-input">To</label>
+            <input id="to-input" type="text" placeholder="e.g. Tirunelveli" required>
+            <div class="suggest" id="to-suggest"></div>
+          </div>
+        </div>
+
+        <div class="field-row">
+          <div class="field">
+            <label for="date-input">Date</label>
+            <input id="date-input" type="date">
+          </div>
+          <div class="field">
+            <label for="time-input">Departure after</label>
+            <input id="time-input" type="time">
+          </div>
+        </div>
+
+        <div class="field">
+          <label>Optimize by</label>
+          <div class="pref-row" id="pref-row">
+            <button type="button" class="pref-chip active" data-pref="DEFAULT">Balanced</button>
+            <button type="button" class="pref-chip" data-pref="FASTEST">Fastest</button>
+            <button type="button" class="pref-chip" data-pref="FEWEST_TRANSFERS">Fewest transfers</button>
+            <button type="button" class="pref-chip" data-pref="LOWEST_FARE">Lowest fare</button>
+            <button type="button" class="pref-chip" data-pref="SHORTEST_DISTANCE">Shortest distance</button>
+            <button type="button" class="pref-chip" data-pref="MOST_RELIABLE">Most reliable</button>
+          </div>
+        </div>
+
+        <button type="submit" class="search-btn">Search journeys</button>
+      </form>
+    </section>
+
+    <section id="results" class="results"></section>
+  </section>
+
+  <!-- ============================= JOURNEY DETAIL ============================= -->
+  <section id="view-detail" class="view">
+    <button class="back-btn" id="detail-back">← Back to results</button>
+    <div id="detail-content"></div>
+  </section>
+
+  <!-- ============================= DASHBOARD VIEW ============================= -->
+  <section id="view-dashboard" class="view">
+    <h2 class="section-title">Database dashboard</h2>
+    <p class="section-sub">Live counts and aggregates straight from the SQL database — no separate analytics layer.</p>
+    <div id="dashboard-content"></div>
+  </section>
+
+  <!-- ============================= ABOUT VIEW ============================= -->
+  <section id="view-about" class="view">
+    <h2 class="section-title">About the data</h2>
+    <p class="section-sub">This system only shows what the supplied datasets actually contain. Here is exactly what that is, and where each figure comes from.</p>
+    <div id="about-content" class="about-content"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Historical timetable data (2018 &amp; source-CSV snapshots) — not live. For current TNSTC services and reservations, use the
+    <a href="https://www.tnstc.in/OTRSOnline/" target="_blank" rel="noopener">official TNSTC search</a>.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
